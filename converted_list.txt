@@ -1,2 +1,0 @@
-['bo.jo123@gov.uk', 'Boris', 'Johnson']
-['jolly@gmail.com', 'Josh', 'Jelly']
