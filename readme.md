@@ -1,10 +1,10 @@
 ## Mailing List Converter
 
-can convert strings in the format [First Name] [Lastname] <[Email]>;.... 
-e.g. Boris Johnson <bo.jo123@gov.uk>; Josh Jelly <jolly@gmail.com>;....
-into a 3 coloum spreadsheet in the format:
-|Email|Fname|Lname|
-|     |     |     |
+	Can convert strings in the format [First Name] [Lastname] <[Email]>;.... 
+	e.g. Boris Johnson <bo.jo123@gov.uk>; Josh Jelly <jolly@gmail.com>;....
+	into a 3 coloum spreadsheet in the format:
+	|Email|Fname|Lname|
+	|     |     |     |
 
 ## Instructions
 
